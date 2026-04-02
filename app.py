@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Raúl Cazorla
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL Streamlit Cloud: https://spotify-wrappedmda-jbp2rahgvgd5gp8q7ytdba.streamlit.app/
+# URL GitHub: https://github.com/rcazorlaluna/Spotify-Wrapped_MDA/
 
 # ============================================================
 # IMPORTS
